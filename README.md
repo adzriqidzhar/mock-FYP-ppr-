@@ -1,2 +1,11 @@
-# mock-FYP-ppr-
-An integrated smart housing management platform for Malaysia's PPR communities. Features digital maintenance tracking, rental management, facility booking, incident reporting, and real-time communication for residents, operational staff, and administrators.
+
+  # PPR SYSTEM UI/UX
+
+  This is a code bundle for PPR SYSTEM UI/UX. The original project is available at https://www.figma.com/design/VG7d3BysvsX38UvIA8AwIU/PPR-SYSTEM-UI-UX.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
